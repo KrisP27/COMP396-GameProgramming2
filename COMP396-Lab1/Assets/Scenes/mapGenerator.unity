@@ -481,6 +481,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6392448770953288837, guid: 669e8b0c65049e24fad7afd346eab2e0, type: 3}
+      propertyPath: width
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6392448770953288837, guid: 669e8b0c65049e24fad7afd346eab2e0, type: 3}
+      propertyPath: height
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6392448770953288837, guid: 669e8b0c65049e24fad7afd346eab2e0, type: 3}
       propertyPath: tileSize
       value: 10
       objectReference: {fileID: 0}
@@ -488,6 +496,10 @@ PrefabInstance:
       propertyPath: tilePrefab
       value: 
       objectReference: {fileID: 2638849591351908846, guid: 193e939c7219b3c458f63e54d57c6298, type: 3}
+    - target: {fileID: 6392448770953288837, guid: 669e8b0c65049e24fad7afd346eab2e0, type: 3}
+      propertyPath: createTimer
+      value: 0.01
+      objectReference: {fileID: 0}
     - target: {fileID: 6392448770953288837, guid: 669e8b0c65049e24fad7afd346eab2e0, type: 3}
       propertyPath: maskCornerNE
       value: 
